@@ -42,20 +42,12 @@ We have adjusted the following settings depending on the needs of particular sur
 - You may choose to remove based on incorrect answers or you may also allow through responses where the “Why” is reasonable. We see many responses like “Mary had more squares” or “I counted the yellow circles”.
 - In such cases, you can use incorrect responses as a flag for inattentive respondents rather than outright bot activity.
 
-## Questions? Contact the team:
+## Request the Unminified JavaScript
 
-If you have any questions, feel free to open an issue or start a discussion in this repository. You can also reach out to us directly via email.
+The purpose of the &lt;canvas&gt; Check Questions is to identify robotic respondents.  Posting the unminified version here would defeat that purpose as it could expose LLMs to how the question works.  However, we are happy to share it with you if you email us at:
 
 - **Daniel Barkley**  
   [daniel@numerious.com](mailto:daniel@numerious.com)
-- **Leyla Yerlikaya Eden**  
-  [leyla@numerious.com](mailto:leyla@numerious.com)
 
-### How to Ask Questions:
 
-1. **Open an Issue**: Navigate to the [Issues](../../issues) tab and create a new issue for your question or problem.
-2. **Start a Discussion**: Go to the [Discussions](../../discussions) tab to start or join a conversation.
-3. **Email Us**: For more direct inquiries, you can email the team members listed above.
-
-We look forward to helping you!
 
